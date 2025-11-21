@@ -1,0 +1,6 @@
+1|Falda de cuero|678|Casual
+2|chaqueta de cuero|878|invierno
+3|pans cargo|1300|invierno
+4|Pantalon acampanado|789|casual
+5|vestido largo floriado|2400|elegante
+6|sueter rosa de rayas|279|invierno
