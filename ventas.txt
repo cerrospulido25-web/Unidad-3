@@ -1,0 +1,5 @@
+Falda de cuero|678.0|1|678.0
+pans cargo|1300.0|2|2600.0
+vestido largo floriado|2400.0|4|9600.0
+sueter rosa de rayas|279.0|4|1116.0
+chaqueta de cuero|878.0|2|1756.0
